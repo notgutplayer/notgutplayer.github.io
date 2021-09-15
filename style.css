@@ -19,3 +19,9 @@ body{
 		background-position: 0% 50%;
 	}
 }
+
+#strona{
+  width: 1200px;
+  height: 900px;
+  background-color: white;
+}
